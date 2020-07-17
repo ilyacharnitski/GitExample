@@ -11,7 +11,26 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "{{domain_API}}/api/v1.5/tr.json/getLangs?key=trnsl.1.1.20180726T220154Z.bcefd8d940ec924c.53bcb416efb578767e22c1cd78be036882614fd7&ui=ru",
+					"host": [
+						"{{domain_API}}"
+					],
+					"path": [
+						"api",
+						"v1.5",
+						"tr.json",
+						"getLangs"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "trnsl.1.1.20180726T220154Z.bcefd8d940ec924c.53bcb416efb578767e22c1cd78be036882614fd7"
+						},
+						{
+							"key": "ui",
+							"value": "ru"
+						}
+					]
 				},
 				"description": "Тестовый запрос для задания по Git"
 			},
