@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "111945ed-0751-4917-8ab6-bda8a2f88636",
+		"name": "YandexTestApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://translate.yandex.net/api/v1.5/tr/getLangs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Тестовый запрос для задания по Git"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
