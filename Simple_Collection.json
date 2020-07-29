@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "111945ed-0751-4917-8ab6-bda8a2f88636",
+		"_postman_id": "86cfc610-73e0-4f6f-8bab-6d13b01bd5ba",
 		"name": "YandexTestApi",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -11,7 +11,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{domain_API}}/api/v1.5/tr.json/getLangs?key=trnsl.1.1.20180726T220154Z.bcefd8d940ec924c.53bcb416efb578767e22c1cd78be036882614fd7&ui=ru",
+					"raw": "{{domain_API}}/api/v1.5/tr.json/getLangs?key=trnsl.1.1.20180726T220154Z.bcefd8d940ec924c.53bcb416efb578767e22c1cd78be036882614fd7&ui=en",
 					"host": [
 						"{{domain_API}}"
 					],
@@ -28,7 +28,7 @@
 						},
 						{
 							"key": "ui",
-							"value": "ru"
+							"value": "en"
 						}
 					]
 				},

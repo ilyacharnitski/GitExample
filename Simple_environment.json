@@ -1,5 +1,5 @@
 {
-	"id": "33c67ea5-4c56-4a48-9107-778229057389",
+	"id": "d48fbb1c-d45a-40da-b9bb-03be8f79ba36",
 	"name": "YandexApi",
 	"values": [
 		{
@@ -9,6 +9,6 @@
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2020-07-17T09:43:05.964Z",
-	"_postman_exported_using": "Postman/7.25.3"
+	"_postman_exported_at": "2020-07-29T11:50:00.569Z",
+	"_postman_exported_using": "Postman/7.29.1"
 }
